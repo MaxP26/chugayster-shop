@@ -1,0 +1,6 @@
+.headertop{
+    display: flex;
+    flex-direction: row;
+    background: #ddd;
+    justify-content: center;
+}

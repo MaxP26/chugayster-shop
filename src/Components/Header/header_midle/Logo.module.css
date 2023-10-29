@@ -1,0 +1,17 @@
+.logoImg{
+    height: 70px;
+}
+.logo{
+    display: flex;
+    width: fit-content;
+    padding: 10px;
+    margin-left: 20%;
+}
+.title{
+    width: fit-content;
+    margin: 0;
+    font-size: 5em;
+    color:#04380386;
+    text-shadow:#beffaa 0 0 3px;
+    font-family: 'Second Road';
+}

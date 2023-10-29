@@ -1,0 +1,17 @@
+.cartIcon{
+    height: 40px;
+    position: absolute;
+    right: 25px;
+    top:25px;
+    background-color: #5c9156;
+    transition: all 0.5s;
+    border-radius: 50%;
+    border:#32502e solid 4px;
+    box-shadow: 0 0 10px,inset 0 0  3px 1px;
+}
+.cartIcon:hover{
+    top:20px;
+    right: 20px;
+    padding: 5px;
+    transition: all 0.5s;
+}
