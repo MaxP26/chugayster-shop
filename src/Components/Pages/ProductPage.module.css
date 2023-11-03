@@ -1,0 +1,68 @@
+.prodswiper{
+    width: 50%;
+    
+}
+.prodpage{
+    display: flex;
+    flex-direction: row;
+}
+.title{
+    font-size: 3.5em;
+    font-weight: 200;
+    text-align: right;
+    margin: 10px;
+}
+.prodinfo{
+    margin: 10px;
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+.desc{
+    text-indent: 2em;
+    margin-inline: 10px;
+}
+.desch{
+    font-size: 1.5em;
+    font-weight: 300;
+    color: #999;
+    margin-inline: 20px;
+}
+.counter{
+    margin: 10px;
+    color: rgb(27, 72, 64);
+    border-width: 1px;
+    border-radius: 50vw;
+    font-weight: 500;
+}
+.cartform{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    position: relative;
+    justify-content: space-around;
+    border: solid #bcbcbc 0.5px;
+    padding: 10px 20px;
+}
+.tocart{
+    color: #dd6;
+    background-color: #495;
+    padding: 10px;
+    border: none;
+    font-size: 1em;
+    border-radius: 2px;
+    font-weight: 700;
+    height: fit-content;
+}
+.portions{
+    display: flex;
+    align-items: center;
+    font-size: 1.2em;
+}
+.prices{
+    color: #858585;
+    margin-inline: 10px;
+}

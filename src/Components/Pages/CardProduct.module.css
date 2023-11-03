@@ -1,0 +1,11 @@
+.cardProduct{
+    border: 1px  solid black;
+    width: fit-content;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+.productImg{
+    height: 200px;
+}

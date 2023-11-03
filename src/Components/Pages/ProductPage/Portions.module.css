@@ -1,0 +1,26 @@
+.btn{
+    border: 1px currentColor solid;
+    margin: 10px;
+    background: white;
+    color: rgb(95, 160, 107);
+}
+.btn::after{
+    content: ' г';
+}
+.btns{
+    display: flex;
+}
+.btnSelected{
+    color:rgb(59, 100, 68);
+    border-width: 1.5px;
+    font-weight: 600;
+}
+.price{
+    margin: 10px;
+    font-size: 1.5em;
+    font-weight: 300;
+}
+.price::after{
+    content: '₴';
+    
+}

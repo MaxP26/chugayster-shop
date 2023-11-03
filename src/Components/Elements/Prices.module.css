@@ -1,0 +1,6 @@
+.price::after{
+    content: '₴';
+}
+.prices{
+    font-size: 2em;
+}

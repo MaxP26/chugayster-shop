@@ -1,3 +1,4 @@
 .header{
-    height: 300px;
+    position: relative;
+    overflow: visible;
 }
